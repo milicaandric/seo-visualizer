@@ -1,0 +1,26 @@
+.root {
+    -fx-font-size: 14.0pt;
+    -fx-font-family: "LucidaBrightDemiBold";
+    -fx-background: #2e3047;
+    -fx-base: rgb(250.0, 250.0, 250.0);
+    -fx-padding: 15.0;
+    -fx-spacing: 5.0;
+}
+
+.label {
+    -fx-font: bold italic 10.0pt "LucidaBrightDemiBold";
+    -fx-font-weight: bold;
+    -fx-text-fill: #3bba9c;
+}
+
+.button {
+    -fx-text-fill: #3bba9c;
+    -fx-border-radius: 8.0;
+    -fx-background-radius: 20.0px;
+    -fx-font: bold italic 14.0pt "LucidaBrightDemiBold";
+}
+
+.table-view .table-cell{
+    -fx-font-weight:bold;
+    -fx-font-size:10px;           
+}
