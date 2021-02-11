@@ -13,7 +13,7 @@ This is a program that helps users (ex: SEO specialists) visualize unused code b
 (6) Explore the interface. Add data you may have forgotten to include in your original text document. Also, notice that when new data is added, the program prints the number of elements total to the console. 
 
 <h2>Ideas</h2>
-(1)I would like to implement some sort of webscraping program that retrieves the neccessary data for you. With this, the user would not have to check the Chrome dev tool and manually create the text file. 
+(1) I would like to implement some sort of webscraping program that retrieves the neccessary data for you. With this, the user would not have to check the Chrome dev tool and manually create the text file. 
 (2) Providing some sort of graphic besides a table would be nice and help users better visualize their data. I would eventually like to transform my current table into an interactive pie chart. 
 (3) Some of my formatting is a little off and I would have liked to use a JavaFX GridPane instead of a JavaFX BorderPane for my UI. I realized this a little too late and would have had to reformat my entire interface. 
 (4) Adding some sort of removal capability to my program.
